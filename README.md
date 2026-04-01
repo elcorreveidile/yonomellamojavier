@@ -88,7 +88,3 @@ Los textos y materiales incluidos están sujetos a derechos de autor de sus resp
 > **un nombre.**
 >
 > Todo lo demás está por ver.
-
----
-
-Este formato funciona muy bien en GitHub: respira, se lee fácil y tiene presencia sin volverse institucional.
